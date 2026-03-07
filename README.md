@@ -1,16 +1,44 @@
-Hi 👋 min-0 😋
+# Hi 👋 I'm [이름을 입력하세요] 👩🏻‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 📁 Experience
 
-<h2 align="center"> 🎨 Stack <br> </p>
- 
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
+| 소속 및 단체 | 활동 기간 | 내용 |
+| :--- | :--- | :--- |
+| **컴퓨터공학 전공** | 202X.XX ~ 현재 | 전기공학부에서 전과 후 컴퓨터공학 전공 중 |
+| **KT AIVLE School** | 2025.09 ~ 현재 | AI 개발 및 실무 프로젝트 과정 참여 |
+| **캡스톤 디자인** | 2025.XX ~ 2026.01 | 건강 관리 애플리케이션 개발 (ChatGPT API 활용) |
 
- 
-<p align="right">
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
-<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리]
+---
+
+## 💻 Projects
+
+| 기간 | 내용 | 담당 |
+| :--- | :--- | :--- |
+| 2025.XX ~ 2026.01 | **[건강 관리 앱]** 실시간 데이터 수집 및 AI 피드백 서비스 | ChatGPT API 연동, 메인 로직 개발 |
+| 2025.XX ~ 2025.XX | **[기타 프로젝트]** 프로젝트 설명을 적어주세요. | 역할 (백엔드, 데이터 분석 등) |
+
+---
+
+## 🏆 Awards & Certifications
+
+### Awards
+* **정보보안 경진대회** (예시) - 수상 내역이 있다면 추가해 보세요.
+
+### Certifications
+* **정보처리기사** (예시)
+* **네트워크 관리사** (예시)
+
+---
+
+## 🛠 Stack
+
+### Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+
+### Mobile & Frameworks
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">
+
+---
+
+## 📞 Contact
+[![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:당신의이메일@gmail.com)
