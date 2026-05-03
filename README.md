@@ -1,6 +1,16 @@
 <div align="center">
 
-# Hi there, I'm 김혜성 👩🏻‍💻
+# 김혜성 (Kim HyeSeong)
+
+<img src="https://img.icons8.com/ios-filled/100/4F8EF7/user-male-circle.png" width="100"/>
+
+### Contact & Channels
+
+📧 Email &nbsp;|&nbsp; [your-email@gmail.com](mailto:your-email@gmail.com)
+&nbsp;&nbsp;📝 Notion &nbsp;|&nbsp; [포트폴리오 보기](https://www.notion.so/)
+&nbsp;&nbsp;🐱 GitHub &nbsp;|&nbsp; [github.com/cometKim000](https://github.com/cometKim000)
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+RegTech+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -19,6 +29,19 @@ developer = {
     "contact"  : "당신의이메일@gmail.com"
 }
 ```
+
+---
+
+## 🎯 Portfolio Goal
+
+> 핀테크 도메인에서 **AI와 데이터를 활용한 금융 규제 자동화(RegTech)** 개발자를 목표로 포트폴리오를 구성했습니다.
+
+| | |
+|:--|:--|
+| **📌 배경** | 전기공학부에서 컴퓨터공학으로 전과 후, KT AIVLE School AI 과정을 통해 실무 역량을 쌓고 있습니다. |
+| **💪 강점** | AI·데이터 분석 역량, KT AIVLE 실무 프로젝트 경험, 신용분석사 자격증 준비 중 |
+| **📂 구성 방향** | 금융·핀테크 도메인 관련 프로젝트 중심으로, 기술 스택과 실제 구현 경험을 함께 보여줍니다. |
+| **🚀 활용 방식** | 핀테크 / 레그테크 기업 취업 지원 시 기술 역량과 도메인 이해도를 어필하기 위해 활용합니다. |
 
 ---
 
@@ -54,18 +77,14 @@ developer = {
 
 ## 🛠 Tech Stack
 
-### 💬 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 
-### 📱 Mobile & Frameworks
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">
+**Mobile & Frameworks** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
 
-### 🧠 AI / Data
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+**AI / Data** &nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 
 ---
 
