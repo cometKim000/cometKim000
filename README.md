@@ -6,7 +6,7 @@
 
 ### Contact & Channels
 
-📧 Email &nbsp;|&nbsp; [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email &nbsp;|&nbsp; [cometkim000@gmail.com](mailto:cometkim000@gmail.com)
 &nbsp;&nbsp;📝 Notion &nbsp;|&nbsp; [포트폴리오 보기](https://www.notion.so/)
 &nbsp;&nbsp;🐱 GitHub &nbsp;|&nbsp; [github.com/cometKim000](https://github.com/cometKim000)
 
@@ -24,9 +24,9 @@
 developer = {
     "name"     : "김혜성",
     "major"    : "Computer Science (전기공학부 → 전과)",
-    "focus"    : ["RegTech", "AI Development", "Mobile App"],
+    "focus"    : ["RegTech", "AI Development", "fintec"],
     "currently": "KT AIVLE School AI 과정 수료 중",
-    "contact"  : "당신의이메일@gmail.com"
+    "contact"  : "cometkim000@gmail.com"
 }
 ```
 
@@ -50,9 +50,8 @@ developer = {
 | 소속 및 단체 | 활동 기간 | 내용 |
 | :--- | :--- | :--- |
 | **컴퓨터공학 전공** | 202X.XX ~ 현재 | 전기공학부에서 전과 후 컴퓨터공학 전공 중 |
-| **KT AIVLE School** | 2025.09 ~ 현재 | AI 개발 및 실무 프로젝트 과정 참여 |
-| **캡스톤 디자인** | 2025.XX ~ 2026.01 | 건강 관리 애플리케이션 개발 (ChatGPT API 활용) |
-
+| **캡스톤 디자인** | 2025.09 ~ 2025.12 | 건강 관리 애플리케이션 개발 (ChatGPT API 활용) |
+| **KT AIVLE School** | 2026.04 ~ 현재 | AI 개발 및 실무 프로젝트 과정 참여 |
 ---
 
 ## 💻 Projects
@@ -61,17 +60,16 @@ developer = {
 | :--- | :--- | :--- |
 | 2025.XX ~ 2026.01 | **건강 관리 앱** — 실시간 데이터 수집 및 AI 피드백 서비스 | ChatGPT API 연동, 메인 로직 개발 |
 | 2026.03 ~ 현재 | [**MyBooksApp**](https://github.com/cometKim000/MyBooksApp) — Kotlin 기반 도서 검색 및 독서 기록 관리 앱 | 앱 전체 개발 |
-
+| 2026.04 ~ 2026.04 |**고객 만족도 예측을 통한 서비스 개선** | 모델링, 검토자|
+| 2026.04 ~ 2026.04 | [**AI 강사 Agent**](https://colab.research.google.com/drive/1WcDEsk4-7p4Sl9eJSMn1_FBpElLcxU2J#scrollTo=GFHW99DQOujL) | 영상제작, ppt 담당자|
 ---
 
 ## 🏆 Awards & Certifications
 
 ### 🥇 Awards
-- **정보보안 경진대회** — 수상 내역이 있다면 추가해 보세요.
 
 ### 📜 Certifications
 - **ADsP** (데이터분석 준전문가)
-- **네트워크 관리사** — 취득 시 추가해 보세요.
 
 ---
 
